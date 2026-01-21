@@ -1,5 +1,7 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/451bb181-bb1c-4631-bd51-13a3c42695d8" />
-# Customer-purchase-behavior-Electronic-Store
+# Customer-purchase-behavior-Electronic-Store<img width="1554" height="733" alt="Screenshot 2026-01-21 212543" src="https://github.com/user-attachments/assets/aa453c48-47e4-4e25-8484-4240e60e4fdb" />
+<img width="1555" height="739" alt="Screenshot 2026-01-21 212521" src="https://github.com/user-attachments/assets/ffdcbab2-e69f-4ade-9e3e-86f53446a7bf" />
+
 Data analysis project focused on understanding customer purchase behavior in an electronic store using Python, EDA, and visualization to support data-driven business decisions.
 
 # 🛒 Customer Purchase Behavior Analysis | Electronic Store
