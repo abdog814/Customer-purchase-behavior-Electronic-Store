@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/451bb181-bb1c-4631-bd51-13a3c42695d8" />
 # Customer-purchase-behavior-Electronic-Store
 Data analysis project focused on understanding customer purchase behavior in an electronic store using Python, EDA, and visualization to support data-driven business decisions.
 
